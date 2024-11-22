@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G61/8Owvb+o4CJ+XkAuzsQxcIHbV7CaJ2Yf9xiwRDULCxl02ZvFqerJ+Ct5Cev3EP7IQ7bBWkuFxFaPHoCr9xw==",
+  "dgSpecHash": "XSh9irzGa4R51ReFsOcMpV6A1PdbeiJe8lr2D+d9meUaDINJkzz7VHgjr32F/RGz8OXzsZDIjerp4wQoqK3v5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\st310-07\\Documents\\Миронов ПР-31\\zd4_Mironov_Ilya\\4.2\\4_2\\TestProjectParamsOfRequest\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\st310-07\\Documents\\Миронов ПР-31\\zd4_2_v2-4_Mironov\\TestProjectParamsOfRequest\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\st310-07\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\st310-07\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\st310-07\\Documents\\Миронов ПР-31\\zd4_Mironov_Ilya\\4.2\\4_2\\ParamsOfRequestLib\\ClassLib.csproj",
+      "projectUniqueName": "C:\\Users\\st310-07\\Documents\\Миронов ПР-31\\zd4_2_v2-4_Mironov\\ParamsOfRequestLib\\ClassLib.csproj",
       "projectName": "ClassLib",
-      "projectPath": "C:\\Users\\st310-07\\Documents\\Миронов ПР-31\\zd4_Mironov_Ilya\\4.2\\4_2\\ParamsOfRequestLib\\ClassLib.csproj",
+      "projectPath": "C:\\Users\\st310-07\\Documents\\Миронов ПР-31\\zd4_2_v2-4_Mironov\\ParamsOfRequestLib\\ClassLib.csproj",
       "packagesPath": "C:\\Users\\st310-07\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\st310-07\\Documents\\Миронов ПР-31\\zd4_Mironov_Ilya\\4.2\\4_2\\ParamsOfRequestLib\\obj\\",
+      "outputPath": "C:\\Users\\st310-07\\Documents\\Миронов ПР-31\\zd4_2_v2-4_Mironov\\ParamsOfRequestLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -22,3 +22,15 @@ C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\4.2\4_2\Para
 C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\4.2\4_2\ParamsOfRequestLib\obj\Debug\net8.0\refint\ClassLib.dll
 C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\4.2\4_2\ParamsOfRequestLib\obj\Debug\net8.0\ClassLib.pdb
 C:\Users\st310-07\Documents\Миронов ПР-31\zd4_Mironov_Ilya\4.2\4_2\ParamsOfRequestLib\obj\Debug\net8.0\ref\ClassLib.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_2_v2-4_Mironov\ParamsOfRequestLib\bin\Debug\net8.0\ClassLib.deps.json
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_2_v2-4_Mironov\ParamsOfRequestLib\bin\Debug\net8.0\ClassLib.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_2_v2-4_Mironov\ParamsOfRequestLib\bin\Debug\net8.0\ClassLib.pdb
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_2_v2-4_Mironov\ParamsOfRequestLib\obj\Debug\net8.0\ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_2_v2-4_Mironov\ParamsOfRequestLib\obj\Debug\net8.0\ClassLib.AssemblyInfoInputs.cache
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_2_v2-4_Mironov\ParamsOfRequestLib\obj\Debug\net8.0\ClassLib.AssemblyInfo.cs
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_2_v2-4_Mironov\ParamsOfRequestLib\obj\Debug\net8.0\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_2_v2-4_Mironov\ParamsOfRequestLib\obj\Debug\net8.0\ClassLib.sourcelink.json
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_2_v2-4_Mironov\ParamsOfRequestLib\obj\Debug\net8.0\ClassLib.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_2_v2-4_Mironov\ParamsOfRequestLib\obj\Debug\net8.0\refint\ClassLib.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_2_v2-4_Mironov\ParamsOfRequestLib\obj\Debug\net8.0\ClassLib.pdb
+C:\Users\st310-07\Documents\Миронов ПР-31\zd4_2_v2-4_Mironov\ParamsOfRequestLib\obj\Debug\net8.0\ref\ClassLib.dll
