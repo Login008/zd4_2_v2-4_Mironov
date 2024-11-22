@@ -1,0 +1,23 @@
+D:\УП\УП_4\Text_Var_4\ParamsOfRequestLib\bin\Debug\net8.0\ParamsOfRequestLib.deps.json
+D:\УП\УП_4\Text_Var_4\ParamsOfRequestLib\bin\Debug\net8.0\ParamsOfRequestLib.dll
+D:\УП\УП_4\Text_Var_4\ParamsOfRequestLib\bin\Debug\net8.0\ParamsOfRequestLib.pdb
+D:\УП\УП_4\Text_Var_4\ParamsOfRequestLib\obj\Debug\net8.0\ParamsOfRequestLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\УП\УП_4\Text_Var_4\ParamsOfRequestLib\obj\Debug\net8.0\ParamsOfRequestLib.AssemblyInfoInputs.cache
+D:\УП\УП_4\Text_Var_4\ParamsOfRequestLib\obj\Debug\net8.0\ParamsOfRequestLib.AssemblyInfo.cs
+D:\УП\УП_4\Text_Var_4\ParamsOfRequestLib\obj\Debug\net8.0\ParamsOfRequestLib.csproj.CoreCompileInputs.cache
+D:\УП\УП_4\Text_Var_4\ParamsOfRequestLib\obj\Debug\net8.0\ParamsOfRequestLib.dll
+D:\УП\УП_4\Text_Var_4\ParamsOfRequestLib\obj\Debug\net8.0\refint\ParamsOfRequestLib.dll
+D:\УП\УП_4\Text_Var_4\ParamsOfRequestLib\obj\Debug\net8.0\ParamsOfRequestLib.pdb
+D:\УП\УП_4\Text_Var_4\ParamsOfRequestLib\obj\Debug\net8.0\ref\ParamsOfRequestLib.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\4_2\zd4_2_v2-4_Mironov\Text_Var_4\ParamsOfRequestLib\bin\Debug\net8.0\ParamsOfRequestLib.deps.json
+C:\Users\st310-07\Documents\Миронов ПР-31\4_2\zd4_2_v2-4_Mironov\Text_Var_4\ParamsOfRequestLib\bin\Debug\net8.0\ParamsOfRequestLib.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\4_2\zd4_2_v2-4_Mironov\Text_Var_4\ParamsOfRequestLib\bin\Debug\net8.0\ParamsOfRequestLib.pdb
+C:\Users\st310-07\Documents\Миронов ПР-31\4_2\zd4_2_v2-4_Mironov\Text_Var_4\ParamsOfRequestLib\obj\Debug\net8.0\ParamsOfRequestLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-07\Documents\Миронов ПР-31\4_2\zd4_2_v2-4_Mironov\Text_Var_4\ParamsOfRequestLib\obj\Debug\net8.0\ParamsOfRequestLib.AssemblyInfoInputs.cache
+C:\Users\st310-07\Documents\Миронов ПР-31\4_2\zd4_2_v2-4_Mironov\Text_Var_4\ParamsOfRequestLib\obj\Debug\net8.0\ParamsOfRequestLib.AssemblyInfo.cs
+C:\Users\st310-07\Documents\Миронов ПР-31\4_2\zd4_2_v2-4_Mironov\Text_Var_4\ParamsOfRequestLib\obj\Debug\net8.0\ParamsOfRequestLib.csproj.CoreCompileInputs.cache
+C:\Users\st310-07\Documents\Миронов ПР-31\4_2\zd4_2_v2-4_Mironov\Text_Var_4\ParamsOfRequestLib\obj\Debug\net8.0\ParamsOfRequestLib.sourcelink.json
+C:\Users\st310-07\Documents\Миронов ПР-31\4_2\zd4_2_v2-4_Mironov\Text_Var_4\ParamsOfRequestLib\obj\Debug\net8.0\ParamsOfRequestLib.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\4_2\zd4_2_v2-4_Mironov\Text_Var_4\ParamsOfRequestLib\obj\Debug\net8.0\refint\ParamsOfRequestLib.dll
+C:\Users\st310-07\Documents\Миронов ПР-31\4_2\zd4_2_v2-4_Mironov\Text_Var_4\ParamsOfRequestLib\obj\Debug\net8.0\ParamsOfRequestLib.pdb
+C:\Users\st310-07\Documents\Миронов ПР-31\4_2\zd4_2_v2-4_Mironov\Text_Var_4\ParamsOfRequestLib\obj\Debug\net8.0\ref\ParamsOfRequestLib.dll
