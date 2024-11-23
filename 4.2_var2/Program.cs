@@ -1,7 +1,5 @@
 ﻿using ClassLib;
 
-// See https://aka.ms/new-console-template for more information
-
 Console.Write("Введите название входного файла: ");
 string fileName = Console.ReadLine();
 

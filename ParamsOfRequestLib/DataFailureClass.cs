@@ -14,7 +14,8 @@ namespace ClassLib
 
             foreach (char ch in row) //перебор символов в строке
             {
-                if (symbols.Contains(ch)) //если символ ещё не содержится в списке, добавляем его, в противном случае возвращаем false
+                if (symbols.Contains(ch)) //если символ ещё не содержится в списке, добавляем его,
+                                          //в противном случае возвращаем false
                     return false;
                 else
                     symbols.Add(ch);
@@ -22,7 +23,8 @@ namespace ClassLib
             return true; //если все элементы уникальны, возвращаем true
         }
 
-        public static bool IsLetterAndUpper(string row) //совершенствуем метод IsLetter из класса string, добавляя в него проверку на верхний регистр
+        public static bool IsLetterAndUpper(string row) //совершенствуем метод IsLetter из класса string,
+                                                        //добавляя в него проверку на верхний регистр
         {
             foreach (char ch in row)
             {
@@ -34,12 +36,14 @@ namespace ClassLib
 
         public static bool IsCorrectlLength(string row) //метод, проверяющий длину строки
         {
-            if (row.Length > 0 && row.Length < 27) //количество символов должно быть в диапозоне от 1 до 26 символов включительно
+            if (row.Length > 0 && row.Length < 27) //количество символов должно быть в диапозоне от 1 до 26 символов
+                                                   //включительно
                 return true;
             return false;
         }
 
-        public static bool IsFileExisting(string fileName) //проверка на название входного файла, чтобы он был только input.txt
+        public static bool IsFileExisting(string fileName) //проверка на название входного файла,
+                                                           //чтобы он был только input.txt
         {
             if (fileName == "input.txt")
                 return true;

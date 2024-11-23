@@ -36,3 +36,22 @@ C:\Users\st310-07\Documents\Миронов ПР-31\zd4_2_v2-4_Mironov\CheckWork\
 C:\Users\st310-07\Documents\Миронов ПР-31\zd4_2_v2-4_Mironov\CheckWork\obj\Debug\net8.0\text_var4.pdb
 C:\Users\st310-07\Documents\Миронов ПР-31\zd4_2_v2-4_Mironov\CheckWork\obj\Debug\net8.0\text_var4.genruntimeconfig.cache
 C:\Users\st310-07\Documents\Миронов ПР-31\zd4_2_v2-4_Mironov\CheckWork\obj\Debug\net8.0\ref\text_var4.dll
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\bin\Debug\net8.0\text_var4.exe
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\bin\Debug\net8.0\text_var4.deps.json
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\bin\Debug\net8.0\text_var4.runtimeconfig.json
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\bin\Debug\net8.0\text_var4.dll
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\bin\Debug\net8.0\text_var4.pdb
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\bin\Debug\net8.0\ClassLib.dll
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\bin\Debug\net8.0\ClassLib.pdb
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\obj\Debug\net8.0\text_var4.csproj.AssemblyReference.cache
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\obj\Debug\net8.0\text_var4.GeneratedMSBuildEditorConfig.editorconfig
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\obj\Debug\net8.0\text_var4.AssemblyInfoInputs.cache
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\obj\Debug\net8.0\text_var4.AssemblyInfo.cs
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\obj\Debug\net8.0\text_var4.csproj.CoreCompileInputs.cache
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\obj\Debug\net8.0\text_var4.sourcelink.json
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\obj\Debug\net8.0\text_var4.csproj.Up2Date
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\obj\Debug\net8.0\text_var4.dll
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\obj\Debug\net8.0\refint\text_var4.dll
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\obj\Debug\net8.0\text_var4.pdb
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\obj\Debug\net8.0\text_var4.genruntimeconfig.cache
+D:\УП\zd4_2_v2-4_Mironov\CheckWork\obj\Debug\net8.0\ref\text_var4.dll

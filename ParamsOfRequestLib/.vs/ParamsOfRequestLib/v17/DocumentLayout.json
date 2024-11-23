@@ -1,9 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u0423\u041F\\\u0423\u041F_4\\Text_Var_4\\ParamsOfRequestLib\\",
+  "WorkspaceRootPath": "D:\\\u0423\u041F\\zd4_2_v2-4_Mironov\\ParamsOfRequestLib\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6140B9B-11CA-455E-96DA-CEA08EAAF359}|..\\CheckWork\\CheckWork.csproj|d:\\\u0443\u043F\\\u0443\u043F_4\\text_var_4\\checkwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5921DAB-3B40-4928-B618-12F6B318C039}|..\\TestProjectParamsOfRequest\\Tests.csproj|d:\\\u0443\u043F\\zd4_2_v2-4_mironov\\testprojectparamsofrequest\\datafailuretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5921DAB-3B40-4928-B618-12F6B318C039}|..\\TestProjectParamsOfRequest\\Tests.csproj|d:\\\u0443\u043F\\zd4_2_v2-4_mironov\\testprojectparamsofrequest\\paramstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6140B9B-11CA-455E-96DA-CEA08EAAF359}|..\\CheckWork\\text_var4.csproj|d:\\\u0443\u043F\\zd4_2_v2-4_mironov\\checkwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60F0746-9208-4F98-A3D7-D4D2E907CD18}|ClassLib.csproj|d:\\\u0443\u043F\\zd4_2_v2-4_mironov\\paramsofrequestlib\\paramsofrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60F0746-9208-4F98-A3D7-D4D2E907CD18}|ClassLib.csproj|solutionrelative:paramsofrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,14 +32,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u0423\u041F\\\u0423\u041F_4\\Text_Var_4\\CheckWork\\Program.cs",
-              "RelativeDocumentMoniker": "..\\CheckWork\\Program.cs",
-              "ToolTip": "D:\\\u0423\u041F\\\u0423\u041F_4\\Text_Var_4\\CheckWork\\Program.cs",
-              "RelativeToolTip": "..\\CheckWork\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Title": "DataFailureTests.cs",
+              "DocumentMoniker": "D:\\\u0423\u041F\\zd4_2_v2-4_Mironov\\TestProjectParamsOfRequest\\DataFailureTests.cs",
+              "RelativeDocumentMoniker": "..\\TestProjectParamsOfRequest\\DataFailureTests.cs",
+              "ToolTip": "D:\\\u0423\u041F\\zd4_2_v2-4_Mironov\\TestProjectParamsOfRequest\\DataFailureTests.cs",
+              "RelativeToolTip": "..\\TestProjectParamsOfRequest\\DataFailureTests.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T11:03:52.229Z",
+              "WhenOpened": "2024-11-23T09:06:59.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParamsOfRequest.cs",
+              "DocumentMoniker": "D:\\\u0423\u041F\\zd4_2_v2-4_Mironov\\ParamsOfRequestLib\\ParamsOfRequest.cs",
+              "RelativeDocumentMoniker": "ParamsOfRequest.cs",
+              "ToolTip": "D:\\\u0423\u041F\\zd4_2_v2-4_Mironov\\ParamsOfRequestLib\\ParamsOfRequest.cs",
+              "RelativeToolTip": "ParamsOfRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:41:05.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParamsTests.cs",
+              "DocumentMoniker": "D:\\\u0423\u041F\\zd4_2_v2-4_Mironov\\TestProjectParamsOfRequest\\ParamsTests.cs",
+              "RelativeDocumentMoniker": "..\\TestProjectParamsOfRequest\\ParamsTests.cs",
+              "ToolTip": "D:\\\u0423\u041F\\zd4_2_v2-4_Mironov\\TestProjectParamsOfRequest\\ParamsTests.cs",
+              "RelativeToolTip": "..\\TestProjectParamsOfRequest\\ParamsTests.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:41:03.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u041F\\zd4_2_v2-4_Mironov\\CheckWork\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CheckWork\\Program.cs",
+              "ToolTip": "D:\\\u0423\u041F\\zd4_2_v2-4_Mironov\\CheckWork\\Program.cs",
+              "RelativeToolTip": "..\\CheckWork\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:38:14.632Z",
               "EditorCaption": ""
             }
           ]

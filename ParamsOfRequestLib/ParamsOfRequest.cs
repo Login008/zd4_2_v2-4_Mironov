@@ -26,7 +26,6 @@ namespace ClassLib
             try //На все случаи сразу
             {
                 int index = -1;
-
                 for (int i = 0; i < link.Length; i++)
                 {
                     if (link[i] == '?') //Ищем в ссылке начало описания параметров
@@ -40,14 +39,11 @@ namespace ClassLib
                 if (index != -1) //проверка на наличие параметров в ссылке
                 {
                     List<string> list = new List<string>();
-
                     while (index < link.Length) 
                     {
                         if (link[index] == '=') //проверка на наличие названия параметра
                             throw new Exception();
-
                         string param = "";
-
                         while (link[index] != '=')
                         {
                             if (link[index] == '&') //проверка на наличие знака разделения параметров
@@ -56,13 +52,10 @@ namespace ClassLib
                             param += link[index]; //добавляем в переменную название параметра
                             index++;
                         }
-
                         index++;
                         param += " : ";
-
                         if (link[index] == '&') //проверка на наличие значения параметра
                             throw new Exception();
-
                         while (link[index] != '&')
                         {
                             if (link[index] == '=') //проверка
@@ -74,12 +67,10 @@ namespace ClassLib
                             if (index == link.Length) //для избегания выхода за предел длины строки
                                 break;
                         }
-
                         index++;
                         list.Add(param); //добавляем параметр в список
                     }
                     list.Sort(); //итоговая сортировка параметров по названию по алфавиту
-
                     string param1 = "";
                     foreach (var item in list)
                     {
